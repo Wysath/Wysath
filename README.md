@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Je suis actuellement étudiante en 2ème année en BUT MMI ( Métiers du Multimédia et de l'Internet) à Troyes, en alternance. Je souhaite continuer de me former dans le domaine du développement Web.
+Je suis actuellement étudiante en 3ème année en BUT MMI ( Métiers du Multimédia et de l'Internet) à Troyes, en alternance. Je souhaite continuer de me former dans le domaine du développement Web.
 
